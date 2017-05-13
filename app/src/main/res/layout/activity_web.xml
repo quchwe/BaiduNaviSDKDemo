@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_web"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/web_error"
+    android:orientation="vertical">
+
+    <include layout="@layout/title_bar"/>
+
+    <include layout="@layout/progress_webview" />
+
+    <com.quchwe.cms.util.webviewutil.TbsWebView
+        android:id="@+id/bw_webView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </com.quchwe.cms.util.webviewutil.TbsWebView>
+
+
+
+    <RelativeLayout
+        android:id="@+id/rl_netError"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="gone">
+
+        <ImageView
+            android:id="@+id/iv_error"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:src="@mipmap/net_error" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/iv_error"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="@dimen/y40"
+            android:text="@string/check_net"
+            android:textColor="@color/hint_text"
+            android:textSize="48px" />
+    </RelativeLayout>
+
+</LinearLayout>

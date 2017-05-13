@@ -1,0 +1,118 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/grey5"
+    android:orientation="vertical"
+    >
+
+    <include layout="@layout/title_bar"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y120"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="@string/please_input_number_login"
+        android:textColor="@color/text_grey"
+        android:textSize="14dp"
+        />
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@android:color/white"
+    android:paddingLeft="@dimen/x45">
+    <EditText
+        android:id="@+id/et_inputNumber"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y156"
+        android:textColor="@android:color/black"
+        android:drawablePadding="@dimen/x100"
+        android:textColorHint="@color/hint_text"
+        android:maxLength="11"
+        android:drawableLeft="@mipmap/phone"
+        android:textSize="16dp"
+        android:inputType="phone"
+        android:hint="@string/input_number"
+        android:background="@null"/>
+    <View
+        android:layout_width="match_parent"
+        android:background="@color/login_divider"
+        android:layout_height="2px"></View>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+    <EditText
+        android:id="@+id/et_inputPassword"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y156"
+        android:drawablePadding="@dimen/x100"
+        android:textColorHint="@color/hint_text"
+        android:drawableLeft="@mipmap/password"
+        android:textColor="@android:color/black"
+        android:maxLength="20"
+        android:inputType="textPassword"
+        android:minEms="6"
+        android:textSize="@dimen/x48"
+        android:hint="@string/input_pwd"
+        android:background="@null"/>
+
+        <ImageView
+            android:id="@+id/see"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/x45"
+            android:src="@mipmap/fade_password"/>
+    </RelativeLayout>
+    <View
+        android:layout_width="match_parent"
+        android:background="@color/login_divider"
+        android:layout_height="2px"></View>
+</LinearLayout>
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y35" />
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <include layout="@layout/grey_button_width_match"/>
+    </RelativeLayout>
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y60" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/x65"
+        android:layout_marginRight="@dimen/x70">
+      <TextView
+          android:id="@+id/tv_phone_quickly_register"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:textSize="36px"
+          android:layout_alignParentLeft="true"
+          android:layout_centerVertical="true"
+         />
+        <TextView
+            android:id="@+id/tv_register"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="36px"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:text="@string/quick_register"/>
+        <TextView
+            android:id="@+id/tv_forget_pwd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="36px"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:text="@string/forget_pwd"/>
+    </RelativeLayout>
+</LinearLayout>

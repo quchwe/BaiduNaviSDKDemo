@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="max_image">最多只能%1$d张照片</string>
+    <string name="viewpager_indicator">%1$d/%2$d</string>
+
+    <string name="home_page">首页</string>
+    <string name="owner_circle">业主圈</string>
+    <string name="custom_service">客服</string>
+    <string name="mine">我的</string>
+    <string name="back">返回</string>
+    <string name="search">搜索</string>
+    <string name="login_success">登录成功</string>
+    <string name="login_failed">登录失败</string>
+    <string name="anonymous">未设置</string>
+    <string name="confirm">确定</string>
+    <string name="call">拨打</string>
+    <string name="hui_bang_zhi_lain">惠帮智联</string>
+    <string name="estate_service">物业服务</string>
+    <string name="estate_repair">物业报修</string>
+    <string name="affairs_publicity">社区政务</string>
+    <string name="owner_open_door">业主开门</string>
+    <string name="estate_style">物业风采</string>
+    <string name="household_repair">家电维修</string>
+
+    <string name="announce_notice">通知公告</string>
+    <string name="phone_replenishing">手机充值</string>
+    <string name="life_pay">生活缴费</string>
+    <string name="swap">旧物交换</string>
+    <string name="house_rental">房屋租售</string>
+    <string name="free_ride">顺风车</string>
+    <string name="estate_charge">缴物业费</string>
+    <string name="park_price">缴停车费</string>
+    <string name="estate_introduce">物业介绍</string>
+    <string name="express_query">快递查询</string>
+    <string name="certificate_query">证件查询</string>
+    <string name="invoice_butler">发票管家</string>
+    <string name="more_service">更多服务</string>
+    <string name="connect_error">连接失败</string>
+    <string name="alert">提示</string>
+    <string name="setting_error">设置失败！</string>
+    <string name="verify_code_error">验证码输入错误</string>
+    <string name="setting_success">设置成功！</string>
+    <string name="plz_choose_city">请选择城市</string>
+    <string name="cnot_get_location">未获取到具体位置</string>
+    <string name="click_to_location">点击定位</string>
+    <string name="pay_result">支付结果</string>
+    <string name="pay_success">支付成功！</string>
+    <string name="pay_failed">支付失败！</string>
+    <string name="pay_cancel">取消支付！</string>
+
+    <string name="cancel">取消</string>
+
+    <string name="no_owner_circle">该物业公司尚未启用此功能</string>
+    <string name="phone_registe">登录</string>
+    <string name="for_better_s_provide_num">请验证您的手机号码后，重新设置新密码</string>
+    <string name="phone_number">手机号</string>
+    <string name="verification_code">密码</string>
+    <string name="password_again">再次输入密码</string>
+    <string name="drivingLicenseId">车牌号</string>
+    <string name="get_verification_code">获取验证码</string>
+    <string name="next_step">下一步</string>
+    <string name="protocol">未注册的手机号码将自动注册登陆,且表示您已同意</string>
+    <string name="set_password">设置登陆密码</string>
+    <string name="huibang_protocol">《惠帮智联服务协议》</string>
+    <string name="please_input_password">请输入登陆密码</string>
+    <string name="please_sec_input_password">再次输入登陆密码</string>
+    <string name="input_6_20_password">请输入6-20位密码</string>
+    <string name="immediately_login">立即登陆</string>
+    <string name="quickly_login">快速登陆</string>
+    <string name="please_input_number_login">请输入手机号码进行登陆</string>
+    <string name="input_number">输入手机号码</string>
+    <string name="input_pwd">输入登陆密码</string>
+    <string name="pwd_login">密码登录</string>
+    <string name="quick_register">注册</string>
+    <string name="forget_pwd">忘记密码？</string>
+    <string name="find_pwd">找回密码</string>
+    <string name="please_verify_number">请先验证您的手机号码</string>
+    <string name="reset_pwd">重置登陆密码</string>
+    <string name="please_rest_pwd">请重新设置您的登陆密码</string>
+
+    <string name="vip_center">会员中心</string>
+    <string name="login_sign_up">登录</string>
+    <string name="need_login">您还未登录</string>
+
+    <string name="life_service">生活服务</string>
+    <string name="self_info">个人资料</string>
+    <string name="my_house">我的房屋</string>
+    <string name="my_invoice">我的发票</string>
+    <string name="my_payment_history">我的缴费记录</string>
+    <string name="my_government_affairs">我的政务咨询</string>
+    <string name="my_owner_circle">我的业主圈</string>
+    <string name="about_us">关于我们</string>
+    <string name="bd_house">绑定房屋享更多服务</string>
+    <string name="check_net">请检查网络设置</string>
+    <string name="verify_success_house">恭喜您，验证成功!</string>
+    <string name="verify_failed_house">很遗憾，验证失败!</string>
+    <string name="current_community">当前小区</string>
+    <string name="more_community">更多小区</string>
+    <string name="your_community">：您的小区</string>
+    <string name="surround_community">周边其它小区</string>
+    <string name="search_community">搜索小区</string>
+    <string name="verified">已认证</string>
+    <string name="not_verify">未认证</string>
+
+    <string name="choose_house_number">选择门牌号</string>
+    <string name="selected_community">已选择小区</string>
+    <string name="select_unit_number">选择单元号</string>
+    <string name="please_select_unit_number">请选择单元号</string>
+    <string name="please_select_house_number">请选择门牌号</string>
+    <string name="reverify">重新验证</string>
+    <string name="verify_house">验证房屋</string>
+
+    <string name="success">成功</string>
+    <string name="failed">失败</string>
+    <string name="house_verify">验证信息</string>
+
+    <string name="not_now_verify">暂不验证</string>
+    <string name="select_city">选择城市</string>
+    <string name="one_key_word_please">请至少输入一个关键词</string>
+    <string name="verify_house_info">为了保护业主隐私和权益，请验证以下信息!</string>
+    <string name="owner_name">业主姓名</string>
+    <string name="user_token_expoired">您的账户在其它地方被登录，请重新登录</string>
+
+    <string-array name="household">
+        <item>电视机维修</item>
+        <item>空调维修</item>
+        <item>冰箱维修</item>
+        <item>电脑维修</item>
+        <item>洗衣机维修</item>
+        <item>热水器维修</item>
+        <item>网络维修</item>
+        <item>水电维修</item>
+        <item>小家电维修</item>
+    </string-array>
+    <string-array name="estate_service_array">
+        <item>全部服务</item>
+        <item>待服务</item>
+        <item>未评价</item>
+        <item>已完成</item>
+    </string-array>
+    <string-array name="bm_service_array">
+        <item>全部订单</item>
+        <item>待服务</item>
+        <item>待付款</item>
+        <item>已完成</item>
+    </string-array>
+    <string-array name="life_service">
+        <item>保洁服务</item>
+        <item>保姆服务</item>
+        <item>送水服务</item>
+        <item>洗衣服务</item>
+        <item>家电维修</item>
+        <item>安装服务</item>
+    </string-array>
+
+
+    <string-array name="certificate_query">
+        <item>    编号：</item>
+        <item>    姓名：</item>
+        <item>    性别：</item>
+        <item>    职务：</item>
+        <item>单位电话：</item>
+        <item>单位名称：</item>
+        <item>单位地址：</item>
+        <item>身份证号：</item>
+        <item>从业时间：</item>
+        <item>专业特长：</item>
+    </string-array>
+    <string name="menu_home">Home</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_notifications">Notifications</string>
+    <string name="scan">扫一扫</string>
+    <string name="qr_scan">二维码/条形码放入框内，即可自动扫描</string>
+    <string name="app_name">CMS</string>
+    <string name="sdk_name">Baidu Navigation SDK Demo</string>
+    <string-array name="sdkapi_items">
+        <item>关键字搜索</item>
+        <item>周边搜索</item>
+        <item>手机语音识别</item>
+        <item>外部语音流识别</item>
+        <item>TTS</item>
+        <item>反GEO</item>
+        <item>线路规划demo1</item>
+        <item>线路规划demo2</item>
+        <item>离线数据管理</item>
+        <item>自定义图层</item>
+    </string-array>
+    <string name="search_start">搜索</string>
+    <string name="search_tips">离线检索需要使用"导航离线数据下载"demo下载数据之后才能正常使用！检索范围固定为广东省-深圳市，其他城市请修改demo源代码。</string>
+    <string name="antigeo_tips">离线反geo需要使用"导航离线数据下载"demo下载数据之后才能正常使用！</string>
+    <string name="asr_tips">语音识别需要使用"导航离线数据下载"demo下载广东数据之后才能正常使用！其他城市请修改demo源代码。</string>
+    <string name="suggest_start">提示</string>
+    <string name="search_hint">请输入关键字</string>
+    <string name="record_recording">\u2026正在录音\u2026</string>
+    <string name="record_recognizing">\u2026正在识别\u2026</string>
+    <string name="voiceinput">外部语音流识别</string>
+    <string name="voicenormal">手机语音流识别</string>
+    <string name="keyword_search">关键字搜索</string>
+    <string name="space_search">周边搜索</string>
+    <string name="search_result">搜索结果</string>
+    <string name="search_empty">识别结果为空</string>
+    <string name="search_fail">识别无效</string>
+    <string name="record_start">点击开启</string>
+
+    <!-- 离线数据管理 -->
+    <string name="title_route_guide_demo">1. GPS导航(RouteGuideDemo)</string>
+    <string name="title_route_plan_demo">2. 路线规划(RoutePlanDemo)</string>
+    <string name="title_cruiser">3. 电子狗(CruiserDemo)</string>
+    <string name="title_layer">4. 自定义地图图层(MapLayerDemo)</string>
+    <string name="title_offline_data">5. 导航离线数据下载(DownloadDemo)</string>
+    <string name="title_keyword_search">6. POI搜索-关键字(KeySearchDemo)</string>
+    <string name="title_nearby">7. POI搜索-分类(CatalogSearchDemo)</string>
+    <string name="title_degeo">8. 反GEO(ReverseGeoDemo)</string>
+    <string name="title_tts">9. TTS-Text To Speech(TTSDemo)</string>
+    <string name="title_asr">10. 语音识别(VoiceDemo)</string>
+    <string name="title_asr_input">11. 外部语音识别(VoiceInputDemo)</string>
+    <string name="title_key_verify_demo">12. 密钥验证(KeyVerifyDemo)</string>
+    <string name="title_charset_change_demo">13. 简体繁体转换(CharsetChangeDemo)</string>
+    <string name="online">在线</string>
+    <string name="offline">离线</string>
+
+    <!-- 繁体简体切换 -->
+    <string name="change_to_simplified">地图切换为简体</string>
+    <string name="change_to_traditional">地图切换为繁体</string>
+    <string name="change_to_simplified_tips">已切换为简体，请在地图图层页看效果</string>
+    <string name="change_to_traditional_tips">已切换为繁体，请在地图图层页看效果</string>
+    <string name="my_repair">我的报修</string>
+    <string name="my_cars">我的车辆</string>
+    <string name="head_image">头像</string>
+    <string name="address">我的地址</string>
+    <string name="sex">性别</string>
+    <string name="signature">个性签名</string>
+    <string name="nick_name">昵称</string>
+    <string name="qrCode">二维码/条形码</string>
+
+
+    <string name="demo_name_basemap">基本地图功能</string>
+    <string name="demo_title_basemap">基本地图功能--BaseMapDemo</string>
+    <string name="demo_desc_basemap">创建一张百度地图并管理地图的生命周期, 包含个性化地图与普通地图切换功能</string>
+    <string name="demo_name_map_fragment">基于MapFragment的基本地图</string>
+    <string name="demo_title_map_fragment">MapFragment使用--MapFragmentDemo</string>
+    <string name="demo_desc_map_fragment">创建一个基于Fragment的地图框架</string>
+    <string name="demo_name_multimap">多地图展示</string>
+    <string name="demo_title_multimap">多地图展示--MultiMapViewDemo</string>
+    <string name="demo_desc_multimap">在一个Activity中创建多个地图展示，不同城市，不同logo位置</string>
+    <string name="demo_name_layers">图层展示</string>
+    <string name="demo_title_layers">图层展示--LayersDemo</string>
+    <string name="demo_desc_layers">展示普通图、卫星图、交通流量图及百度城市热力图</string>
+    <string name="demo_name_control">地图操作功能</string>
+    <string name="demo_desc_control">介绍地图基本控制方法，对地图单击、长按、双击、截图的事件响应</string>
+    <string name="demo_title_control">地图操作功能--MapControlDemo</string>
+    <string name="demo_name_ui">UI控制功能</string>
+    <string name="demo_title_ui">UI控制功能--UISettingsDemo</string>
+    <string name="demo_desc_ui">介绍开关手势功能和显示隐藏UI控件</string>
+    <string name="demo_name_location">定位图层展示</string>
+    <string name="demo_title_location">定位图层展示--LocationDemo</string>
+    <string name="demo_desc_location">介绍定位图层的基本用法</string>
+    <string name="demo_name_geometry">自定义绘制功能，折线可点击</string>
+    <string name="demo_title_geometry">自定义绘制功能--GeometryDemo</string>
+    <string name="demo_desc_geometry">介绍自定义绘制点、线、多边形、圆等几何图形和文字</string>
+    <string name="demo_name_favorite">点收藏功能</string>
+    <string name="demo_title_favorite">点收藏功能--FavoriteDemo</string>
+    <string name="demo_desc_favorite">介绍如何创建、管理本地点数据</string>
+    <string name="demo_name_radar">周边雷达功能</string>
+    <string name="demo_title_radar">周边雷达功能--RadarDemo</string>
+    <string name="demo_desc_radar">介绍如何使用周边雷达功能上传位置、检索周边的人</string>
+    <string name="demo_name_overlay">覆盖物功能</string>
+    <string name="demo_title_overlay">覆盖物功能--OverlayDemo</string>
+    <string name="demo_desc_overlay">介绍添加覆盖物并响应点击功能和弹出pop功能</string>
+    <string name="demo_name_poi">POI搜索功能</string>
+    <string name="demo_title_poi">POI搜索功能--POISearchDemo</string>
+    <string name="demo_desc_poi">介绍关键词查询、suggestion查询和查看餐饮类Place详情页功能</string>
+    <string name="demo_name_route">路径规划功能</string>
+    <string name="demo_title_route">路径规划功能--RoutePlanDemo</string>
+    <string name="demo_title_poinearby">POI附近搜索功能</string>
+    <string name="demo_desc_route">介绍跨城交通、公交、驾车、步行、骑行五种线路规划方法及自定义图标方法</string>
+    <string name="demo_name_geocode">地理编码功能</string>
+    <string name="demo_title_geocode">地理编码功能--GeoCodeDemo</string>
+    <string name="demo_desc_geocode">介绍地址信息与坐标之间的相互转换</string>
+    <string name="demo_name_bus">公交线路查询功能</string>
+    <string name="demo_title_bus">公交线路查询功能--BusLineDemo</string>
+    <string name="demo_desc_bus">介绍查询公交线路功能</string>
+    <string name="demo_name_offline">离线地图功能</string>
+    <string name="demo_title_offline">离线地图功能--OfflineDemo</string>
+    <string name="demo_desc_offline">介绍如何下载和使用离线地图</string>
+    <string name="demo_name_open_baidumap">调启百度地图</string>
+    <string name="demo_title_open_baidumap">调启百度地图--OpenBaiduMap</string>
+    <string name="demo_desc_open_baidumap">介绍如何调启百度地图实现自身业务功能</string>
+    <string name="demo_name_cloud">LBS.云检索功能</string>
+    <string name="demo_title_cloud">LBS.云检索功能--CloudSearchDemo</string>
+    <string name="demo_desc_cloud">介绍如何使用LBS.云检索用户自有数据</string>
+    <string name="demo_name_heatmap">热力图功能</string>
+    <string name="demo_title_heatmap">热力图功能--HeatMapDemo</string>
+    <string name="demo_desc_heatmap">介绍如何以热力图形式显示用户自有数据</string>
+    <string name="demo_name_opengl">OpenGL绘制功能</string>
+    <string name="demo_title_opengl">OpenGL绘制功能--OpenGLDemo</string>
+    <string name="demo_title_cluster">点聚合功能--MarkerClusterDemo</string>
+    <string name="demo_name_tileoverlay">瓦片图功能</string>
+    <string name="demo_desc_cluster">介绍如何实现多个Marker点的点聚合功能</string>
+    <string name="demo_title_tileoverlay">瓦片图功能--TileOverlayDemo</string>
+    <string name="demo_desc_tileoverlay">介绍如何在地图上添加自定义的瓦片图</string>
+    <string name="demo_desc_poinearbysearch">POI附近检索功能</string>
+    <string name="demo_desc_texturemapview">地图由TextureView渲染</string>
+    <string name="demo_desc_districsearch">介绍如何使用行政区域检索，并绘制区域边界</string>
+    <string name="demo_title_districsearch">行政区域检索--DistrictSearchDemo</string>
+    <string name="demo_name_districsearch">行政区域检索</string>
+    <string name="demo_name_indoor">室内图功能</string>
+    <string name="demo_title_indoor">室内图--IndoorMapDemo</string>
+    <string name="demo_desc_indoor">介绍室内图功能，显示室内图及室内路线规划</string>
+    <string name="demo_name_indoorsearch">室内图检索功能</string>
+    <string name="demo_title_indoorsearch">室内图检索--IndoorSearchDemo</string>
+    <string name="demo_desc_indoorsearch">介绍在室内图中进行室内POI检索</string>
+    <string name="demo_track_show">小车轨迹平滑移动</string>
+    <string name="demo_desc_track_show">介绍小车轨迹平滑移动的实现</string>
+
+
+    <string name="demo_desc_opengl">介绍如何使用OpenGL绘制在地图中进行绘制</string>
+    <string name="key_error">"请在  DemoApplication.java文件输入正确的授权Key！\r\n申请地址：http://dev.baidu.com/wiki/static/imap/key/"</string>
+    <string name="navi_tip">百度地图SDK支持通过相关的接口，调启百度地图客户端（v5.0以上）导航和Web端百度地图导航。</string>
+    <string name="title_activity_cloud_search_demo">云检索使用介绍</string>
+    <string name="cloud_search_tips"> \t\tLBS.云是百度地图针对LBS开发者推出的平台级服务。结合已有的地图API和SDK服务。通过开放服务端存储和计算能力,提供海量位置数据存储、检索、展示一体化解决方案。\n\n
+          \t\t该服务对开发者免费开放。测试demo里写入了测试的ak。开发者可以使用测试ak查看 LBS.云检索的效果。如果开发者要使用自己的数据，请在申请ak后替换demo中的ak。\n\n
+          \t\t如有任何关于LBS.云服务的问题,诸如如何申请ak、如何存储和检索数据等，请访问百度地图官方“LBS开放平台”。地址：http://lbsyun.baidu.com/  \n
+</string>
+    <string name="panorama_tips">\t\t百度地图SDK为您免费提供全景图的功能。\n
+      \t\t利用接口，可查询、开启并操作更丰富的全景图。\n
+      \t\t以下三个示例分别向您展示了三种调启全景图的入口，您可在实际操作中灵活运用。\n
+      \t\t全景图还提供了Item绘制能力，您可在第三个示例中查看具体使用方法。</string>
+    <string name="panorama_poi_tips"> 首先根据关键词进行POI检索，点击地图上的POI点，根据POI的UID进入全景</string>
+    <string name="panorama_geo_tips">单击地图以选取坐标点</string>
+    <string name="demo_title_share">短串分享功能 --ShareDemo</string>
+    <string name="demo_name_share">短串分享</string>
+    <string name="demo_desc_share">介绍关键词查询、suggestion查询和查看餐饮类Place详情页功能</string>
+    <string name="share_tip">\t\t短串分享是指，用户搜索查询后得到的每一个地理位置结果将会对应一条短串（短链接），用户可以通过短信、邮件或第三方分享组件（如微博、微信等）把短串分享给其他用户从而实现地理位置信息的分享。当其他用户收到分享的短串后，点击短串即可打开手机上的百度地图客户端或者手机浏览器进行查看。\n\n
+                \t\t例如，用户搜索“百度大厦”后通过短信使用短串分享功能把该地点分享给好友，好友点击短信中的短串“http://j.map.baidu.com/XLCrk”后可以调起百度地图客户端或者手机浏览器查看“百度大厦”的地理位置信息。\n\n
+                \t\t目前短串分享功能暂时开放了“POI搜索结果分享”、“反向地理编码结果分享”和"路线规划路线结果分享(包含步行、骑行、驾车、公交)"，日后会开放更多的功能，欢迎广大开发者使用短串分享功能。
+</string>
+    <string name="texturemap_hint">\t\t名称：TextureMapView（实现地图由TextureView
+        渲染）\n\n
+    \t\t前提：Android 4.0以上系统，并开启加速功能，才能使用TextureMapView \n\n
+    \t\t用法：解决原MapView基于系统GLSurfaceView导致tabhost切换或滚动闪屏、白边等问题</string>
+    <string name="tileoverlay_online_urlhint">放入图片URL，点击在线</string>
+    <string name="tileoverlay_online">在线方式</string>
+    <string name="tileoverlay_offline">离线方式</string>
+    <string name="hide_poiinfo">隐藏地图上的poi标注</string>
+    <string name="title_activity_panorama_activity_main">全景图功能</string>
+    <string name="title_activity_panorama_poi_selector">通过POI进入全景图</string>
+    <string name="title_activity_panorama_geo_selector">通过地理坐标进入全景图</string>
+    <string name="title_activity_panorama_demo">全景图功能</string>
+    <string name="title_activity_clustering_demo">ClusteringDemoActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_marker_cluster_demo">点聚合功能</string>
+    <string name="title_markercluster_desc">\t\t缩小地图，以显示标注物的聚合点 \n
+    \t\t放大地图，显示Marker点 \n</string>
+    <string name="title_activity_texture_map_view_demo">TextureMapViewDemo</string>
+    <string name="title_activity_poi_near_by_search_demo">PoiNearBySearchDemo</string>
+    <string name="instruction">当设计的UI与地图部分重叠时，设置地图的padding值,以防止UI遮挡</string>
+    <string name="create_time">创建日期:</string>
+    <string name="car_type">车型</string>
+    <string name="speed">百公里加速时间</string>
+    <string name="origin">产地</string>
+    <string name="category">品类</string>
+    <string name="miles">行驶里程</string>
+    <string name="description">描述</string>
+    <string name="modify">修改</string>
+    <string name="add">添加</string>
+    <string name="accident_type">事故类型</string>
+    <string name="progress">维修进度</string>
+</resources>

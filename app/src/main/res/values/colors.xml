@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="home_slider_indictor_selected">#f1691e</color>
+    <color name="login_register_status">#414141</color>
+    <color name="grey1">#8a8a8a</color>
+    <color name="g2">#5e5e5e</color>
+    <color name="orange">#ff5100</color>
+    <color name="g3">#f7f7fa</color>
+    <color name="status">#414141</color>
+    <color name="w1">#fbf9fe</color>
+    <color name="g4">#8c8c8c</color>
+    <color name="green2">#04be02</color>
+    <color name="login_title_bar">#38393e</color>
+    <color name="grey5">#f8f8f8</color>
+    <color name="login_divider">#d9d9d9</color>
+    <color name="button__grey">#cccccc</color>
+    <color name="text_grey">#adadad</color>
+    <color name="grey_dada">#dadada</color>
+    <color name="text_blue">#4092d7</color>
+    <color name="b5">#4c4c4c</color>
+    <color name="hint_text">#999999</color>
+    <color name="Estate_Service_text">#505050</color>
+    <color name="_888888">#888888</color>
+    <color name="web_error">#f5f5f5</color>
+    <color name="w3">#efeff5</color>
+    <color name="w0">#FFFFFF</color>
+    <color name="menu_item_normal">#c9ffffff</color>
+    <color name="menu_item_pressed">#d5dadada</color>
+    <color name="menu_text">#f12162ff</color>
+    <color name="b0">#000000</color>
+    <color name="_ea00ff">#ea00ff</color>
+</resources>

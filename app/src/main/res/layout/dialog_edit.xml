@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_btn_grey"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv_dialog_title"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y160"
+        android:background="@color/grey_dada"
+        android:gravity="center"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/x56" />
+
+    <EditText
+        android:id="@+id/et_dialog"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y144"
+        android:layout_margin="@dimen/x30"
+        android:background="@drawable/bg_et_white_round"
+        android:paddingLeft="@dimen/x80"
+        android:enabled="true"
+        android:paddingRight="@dimen/x40"
+        android:textSize="@dimen/x42" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_marginLeft="@dimen/x50"
+        android:layout_marginRight="@dimen/x50"
+        android:layout_marginTop="@dimen/y50"
+        android:background="@color/_888888"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/y150"
+        android:layout_marginLeft="@dimen/x100"
+        android:layout_marginRight="@dimen/x100"
+
+        android:weightSum="2">
+
+        <Button
+            android:id="@+id/confirm"
+            android:layout_width="0px"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="@string/confirm"
+            android:background="@null"
+            android:textColor="#21b922"
+            android:textSize="@dimen/x48" />
+
+        <View
+            android:layout_width="1px"
+            android:layout_height="match_parent"
+            android:background="@color/_888888"
+            android:layout_gravity="center"/>
+
+        <Button
+            android:id="@+id/cancel"
+            android:layout_width="0px"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:text="@string/cancel"
+            android:background="@null"
+            android:textColor="#21b922"
+            android:textSize="@dimen/x48" />
+    </LinearLayout>
+
+</LinearLayout>
